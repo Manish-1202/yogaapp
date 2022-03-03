@@ -1,4 +1,4 @@
-# yogaapp
+# yoga-app
 Simple yoga android application 
 
 ![yoga app image 1](https://user-images.githubusercontent.com/89997635/146247973-bb5f83a7-b1bc-4f05-b026-742857649933.jpeg
